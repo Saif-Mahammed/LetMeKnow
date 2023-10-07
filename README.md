@@ -13,7 +13,7 @@ https://www.jsmastery.pro/masterclass
 
 ## Overview
 
-Welcome to the Pricewise project, a comprehensive solution for tracking product prices on Amazon. This project is designed to scrape product details from Amazon, store the data in a MongoDB database, and send email notifications to users when there are changes in the product details. The project includes a web application with a user-friendly interface that allows users to search for products, view product details, and subscribe to product updates. The application is built with Next.js and Tailwind CSS, and it includes several components such as a home page, product details page, navbar, search bar, product card, price info card, and modal.
+Welcome to the LetMeKnow project, a comprehensive solution for tracking product prices on Amazon. This project is designed to scrape product details from Amazon, store the data in a MongoDB database, and send email notifications to users when there are changes in the product details. The project includes a web application with a user-friendly interface that allows users to search for products, view product details, and subscribe to product updates. The application is built with Next.js and Tailwind CSS, and it includes several components such as a home page, product details page, navbar, search bar, product card, price info card, and modal.
 
 The server-side logic is implemented with serverless functions that handle various tasks such as connecting to the database, scraping product details, updating product information, and sending email notifications. The project also includes several utility functions for extracting information from web pages and formatting numbers.
 
@@ -37,13 +37,13 @@ Follow these steps to install and run the project:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/adrianhajdin/pricewise.git
+   git clone https://github.com/adrianhajdin/LetMeKnow.git
    ```
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd pricewise
+   cd LetMeKnow
    ```
 
 3. **Install Node.js**
